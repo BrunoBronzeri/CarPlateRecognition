@@ -1,1 +1,1 @@
-[(Visao_Computacional_plateReconition.pdf)]
+![](Visao_Computacional_plateReconition.pdf)
