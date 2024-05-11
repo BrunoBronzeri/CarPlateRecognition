@@ -1,3 +1,0 @@
-# CarPlateRecognition
-# CarPlateRecognition
-# CarPlateRecognition
